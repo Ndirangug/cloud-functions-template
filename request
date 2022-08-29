@@ -1,0 +1,1 @@
+curl -X POST https://us-central1-markmeiconsofficial-1b195.cloudfunctions.net/broadcastNotification -H "Content-Type:application/json"  -d '{"deviceIds": ["hghghgjgj"], "room": {"id": "ewew"}}'
